@@ -34,6 +34,7 @@ public class EntradaDeDados{
 			System.out.println("Obesidade grau 3");
 			System.out.println("Muito cuidado com o seu peso");		
 		}
+		System.out.println("Teste do GitHub!");
 
 	}
 }
