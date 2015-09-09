@@ -35,6 +35,6 @@ public class EntradaDeDados{
 			System.out.println("Muito cuidado com o seu peso");		
 		}
 		System.out.println("Teste do GitHub!");
-
+		System.out.println("Teste do GitHub! Parte 2");
 	}
 }
